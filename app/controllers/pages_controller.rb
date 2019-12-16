@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
-  def fag
+  def faq
 
   end
 
